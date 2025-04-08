@@ -48,6 +48,9 @@ https://api.freecurrencyapi.com/v1/latest?apikey=YOUR_API_KEY&base_currency=EUR&
 ```
 
 ---
+Demonstração através de video
+
+https://youtube.com/shorts/7CDl5PXYQyE?si=sc2t4eL0vAexg_fz
 
 ## 📲 Como executar o projeto no teu computador
 
